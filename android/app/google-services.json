@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586808618653",
+    "project_id": "nivaas-ac16f",
+    "storage_bucket": "nivaas-ac16f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586808618653:android:8ded15a8577fa1b43cee74",
+        "android_client_info": {
+          "package_name": "com.nivaas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpUo2KwuD7RfBju5G8YaR0rJ_l8PZEWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
